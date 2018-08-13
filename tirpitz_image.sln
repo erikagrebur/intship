@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tirpitz_image", "tirpitz_image.csproj", "{385E05AA-E117-A046-95D1-0C6E6336D821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tirpitz_image.Editor", "tirpitz_image.Editor.csproj", "{8CDD7B3F-6E35-C2FC-DF98-905C89E56AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385E05AA-E117-A046-95D1-0C6E6336D821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385E05AA-E117-A046-95D1-0C6E6336D821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385E05AA-E117-A046-95D1-0C6E6336D821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385E05AA-E117-A046-95D1-0C6E6336D821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CDD7B3F-6E35-C2FC-DF98-905C89E56AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDD7B3F-6E35-C2FC-DF98-905C89E56AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDD7B3F-6E35-C2FC-DF98-905C89E56AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDD7B3F-6E35-C2FC-DF98-905C89E56AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED811EB8-6AA1-4DDD-BCD9-0DFC5279E928}
+	EndGlobalSection
+EndGlobal
