@@ -116,6 +116,8 @@ namespace GoogleARCore.Examples.AugmentedImage
         {
             yield return new WaitForSeconds(5);
             HejSpeech.SetActive(true);
+
+            yield return new WaitForSeconds(0.81f);
             HejSpeechButton.SetActive(true);
         }
     }
